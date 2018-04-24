@@ -10,12 +10,14 @@ public class Dimension {
 		
 	}
 	public int getWidth() {
+		return width;
 		
 	}
 	public void setWidth(int width) {
 		
 	}
 	public int getHeight() {
+		return height;
 		
 	}
 	public void setHeight(int height) {
