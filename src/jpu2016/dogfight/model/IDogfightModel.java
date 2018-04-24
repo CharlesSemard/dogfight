@@ -11,3 +11,4 @@ public interface IDogfightModel {
 		public IMobile getMobileByPlayer(int player);
 		public void setMobilesHavesMoved();
 }
+
